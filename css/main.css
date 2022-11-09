@@ -465,7 +465,7 @@ body::-webkit-scrollbar {
 }
 
 #menu a:hover {
-  color: rgb(71, 68, 68);
+  color: darkgrey;
 }
 
 ul#menu {
